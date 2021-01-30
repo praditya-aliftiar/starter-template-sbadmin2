@@ -1,0 +1,11 @@
+img.imgPreview {
+	width: 500px;
+	height: 300px;
+}
+
+@media (max-width: 991.98px) {
+	img.imgPreview {
+		width: 270px;
+		height: 180px;
+	}
+}
